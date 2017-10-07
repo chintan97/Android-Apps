@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment4_App6</string>
+    <string-array name="choice">
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Rounded rectangle</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment5_App9</string>
+    <array name="animation">
+        <item>alpha</item>
+        <item>rotate</item>
+        <item>translate</item>
+        <item>scale</item>
+    </array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">App2</string>
+<string name="hello_world">Hello world!</string>
+<string name="menu_settings">Settings</string>
+<string name="r1">Resource 1</string>
+<string name="r2">Resource 2</string>
+<string name="r3">Resource 3</string>
+</resources>

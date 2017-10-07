@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.chintan.assignment5_app11.MainActivity">
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:id="@+id/linearGradient"
+        android:background="@drawable/linear"
+        android:text="Linear" />
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:id="@+id/sweepGradient"
+        android:layout_below="@+id/linearGradient"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/sweep"
+        android:text="Sweep"/>
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:id="@+id/radialGradient"
+        android:layout_below="@+id/sweepGradient"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/radial"
+        android:text="Radial"/>
+
+
+
+</RelativeLayout>

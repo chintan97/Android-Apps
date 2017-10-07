@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 16,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 204,
+                        "endLine": 10,
+                        "endColumn": 16,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 41,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 52,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 50,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 50,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "C:\\Users\\Chintan\\StudioProjects\\Assignment1_App3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
